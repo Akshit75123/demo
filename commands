@@ -1,0 +1,5 @@
+git clone <-somelink-> // for copying files from github to PC
+git status //gives current status
+git add <-filename-> //two stages for adding in github --> add and then commit.
+git commit -m "message" //message for some change
+git push //update changes on github.
